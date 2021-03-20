@@ -7,8 +7,10 @@ This example features how to use [chakra-ui](https://github.com/chakra-ui/chakra
 ## How to use
 
 ```bash
-npx create-next-app --example with-chakra-ui with-chakra-ui-app
+npm install
+npm dev
 # or
-yarn create next-app --example with-chakra-ui with-chakra-ui-app
+yarn 
+yarn dev
 ```
 
