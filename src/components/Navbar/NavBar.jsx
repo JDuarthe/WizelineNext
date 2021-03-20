@@ -10,7 +10,7 @@ import NextLink from "next/link";
 
 const Navbar = () => {
     const { isOpen, onOpen, onClose } = useDisclosure();
-    const btnRef = React.useRef()
+    const btnRef = React.useRef();
     return (
         <>
             <Flex bg="blue.50" alignItems={"center"}>
